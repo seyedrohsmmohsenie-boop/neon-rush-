@@ -1,0 +1,14 @@
+{
+  "name": "NEON RUSH // HYPERDRIVE",
+  "short_name": "NEON RUSH",
+  "description": "Neon Rush Hyperdrive — a fast arcade racing game.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#02030a",
+  "theme_color": "#080414",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
